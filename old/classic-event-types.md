@@ -1,7 +1,7 @@
 ---
 id: classic-event-types
 title: Classic Event Types
-sidebar_position: 8
+sidebar_position: 89
 ---
 
 # Classic Event Types

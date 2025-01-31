@@ -164,19 +164,20 @@ const sidebars: SidebarsConfig = {
       },
       collapsed: true,
       items: [
-        "event-staff-handbook/event-team-channels",
-        "event-staff-handbook/event-rules",
-        "event-staff-handbook/event-trial-training",
-        "event-staff-handbook/senior-team-promotion",
-        "event-staff-handbook/how-to-host-an-event",
-        "event-staff-handbook/scheduling-procedures",
-        "event-staff-handbook/classic-event-types",
-        "event-staff-handbook/special-planning-event-types",
-        "event-staff-handbook/hosting-requirements",
-        "event-staff-handbook/security-requirements",
-        "event-staff-handbook/incident-management-guidelines",
-        "event-staff-handbook/host-discretion-list",
-        "event-staff-handbook/github-records",
+        "event-staff-handbook/event-roles",
+        {
+          type: "category",
+          label: "Event Types",
+          link: {
+            type: "doc",
+            id: "event-staff-handbook/event-types/introduction"
+          },
+          collapsed: true,
+          items: [
+            "event-staff-handbook/event-types/classic-event-types",
+            "event-staff-handbook/event-types/special-planning-event-types"
+          ]
+        }
         // Add other event staff handbook files here
       ],
     },

@@ -1,0 +1,10 @@
+{
+  "label": "Event Types",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Event Staff Roles",
+    "description": "Various event staff roles."
+  },
+  "collapsed": true
+}
