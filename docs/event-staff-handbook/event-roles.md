@@ -4,11 +4,12 @@ title: Event Roles
 sidebar_position: 2
 ---
 
-# Event Host
 
+## Event Host
+---
 Individuals in charge of hosting events and ensuring they run smoothly.
 
-## Responsibilities:
+### Host Responsibilities:
 
 - Manage event participants.
 - Enforce rules during events if security is unavailable.
@@ -34,7 +35,8 @@ Individuals in charge of hosting events and ensuring they run smoothly.
 </details>
 
 <details>
-  <summary>How to Host an Event</summary>
+<summary>How to Host an Event</summary>
+
 Hosting an event involves several key steps:
 
 1. **Scheduling**: Ensure you are scheduled to host the event.
@@ -70,7 +72,49 @@ Be punctual with pings and event start times. We understand technical issues can
 </details>
 
 
+## Event Security
+---
 
-:::tip
-Event Hosts are the face of the event, ensuring attendees have a great experience.
+Personnel responsible for the safety and security of events.
+
+### Security Responsibilities:
+
+- Enforce rules during events.
+- Ensure the event is safe and secure.
+- Make rounds during events to check for issues.
+- Document any event incidents worth noting for the Event Security Manager to review.
+
+:::warning
+Event Security must be vigilant and proactive in addressing any concerns during events.
 :::
+
+
+
+
+<details>
+<summary>Security Requirements</summary>
+
+
+- **Active Security**: You are expected to be Security events regularly. While there is no strict monthly minimum, avoid going without hosting for 6 months.
+
+- **Professional Conduct**: Always act professionally, courteously, and respectfully toward staff and members.
+
+- **Conflict Resolution**: Avoid drama. If conflicts arise affecting the team, **HR** may intervene to help resolve issues.
+
+:::warning
+  If you become too inactive, the Event Committee will reach out to see if you need a break or if you wish to leave the team.
+  :::
+</details>
+
+
+<details>
+<summary>How to Be Security</summary>
+
+Hosting an event involves several key steps:
+
+1. **Signing Up**: Respond to a ping by a host for event security.
+
+2. **Be Punctual**: Appear 15 Minutes Before Event Begins.
+
+
+</details>
