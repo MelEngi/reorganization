@@ -112,9 +112,19 @@ Event Security must be vigilant and proactive in addressing any concerns during 
 
 Hosting an event involves several key steps:
 
-1. **Signing Up**: Respond to a ping by a host for event security.
+1. **Confirm Availability:**  
+   - Before adding `(security)` or `(shadow)`, confirm with the current security team that they are available to train or support.
 
-2. **Be Punctual**: Appear 15 Minutes Before Event Begins.
+2. **Announce Your Role:**  
+   - When an event is announced, add `(security)` next to your signup name in the `#Events-Threads` channel.  
+   - If you are in the shadow phase of training, add `(shadow)` next to your name to indicate to active staff that you will be joining after confirming with current security.
+
+4. **Support the Host and Event Flow:**  
+   - Assist the event host in ensuring the event runs smoothly and remains a positive experience.  
+   - Provide support to other security team members when needed.
+
+5. **Incident Management:**  
+   - If an incident occurs, follow the guidelines outlined in the **"Incident Management Guidelines"** section.
 
 
 </details>

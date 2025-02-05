@@ -165,19 +165,8 @@ const sidebars: SidebarsConfig = {
       collapsed: true,
       items: [
         "event-staff-handbook/event-roles",
-        {
-          type: "category",
-          label: "Event Types",
-          link: {
-            type: "doc",
-            id: "event-staff-handbook/event-types/introduction"
-          },
-          collapsed: true,
-          items: [
-            "event-staff-handbook/event-types/classic-event-types",
-            "event-staff-handbook/event-types/special-planning-event-types"
-          ]
-        }
+        "event-staff-handbook/event-types"
+
         // Add other event staff handbook files here
       ],
     },

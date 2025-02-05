@@ -1,26 +1,9 @@
 ---
-id: classic-event-types
-title: Classic Events
+id: event-types
+title: Event Types
 sidebar_position: 2
 ---
 
-
-
-# Special Planning Event Types
-<details>
-<summary>Classic Event Types</summary>
-
-| Event Type | Security (Min-Max) | Volunteers (Min-Max) | Attendees Expected | Event Description |
-|------------|---------------------|----------------------|--------------------|------------------|
-| **Lewd Class** | 1-3 | 0-5 | 25-40 | Teach some of your favorite kinks or teach about great ways to ask for consent or give aftercare and have attendees practice with each other. Find some friends to help demonstrate for the class how to practice some kinks and ERP tips for VRC. *Designate a SFW/Aftercare area for attendees to cool off* |
-| **Orgy Night** | 2-4 | 1-3 | 25-40 | Night of making a hot sticky mess on some poor world creator's world. *Designate a SFW/Aftercare area for attendees to cool off* |
-| **Free Use Event** | 3-5 | 1-6 | 25-40 | Gather your Free Use friends who volunteer as tribute. Can be themed or just a world with private rooms. *Have at least one security for every 2-3 Free Use participants and one security member free to roam the world.* *Designate a SFW/Aftercare area for attendees to cool off* *Free Use rooms may be locked so long as they are in VC with staff* |
-| **Role Play Events** | 3-5 | 1-6 | 15-35 | Send the attendees on an Adventure. Think up some quests for attendees to perform while getting into character with your volunteer NPCs. Pick a theme, make a goal, build up some world lore to introduce in your secondary announcement and signups thread then get everyone ready to explore. *Quest prizes can include a turn with a Free Use volunteer* *Designate an Out of Character/SFW/Aftercare area for attendees to cool off* |
-| **Horror Map Event** | 3-4 | 0-3 | 20-40 | Guide your event through a haunted mansion, spooky maze, or challenge attendees to test their steel to get past some paranormal worlds. *Have the attendees break up into groups and stay with a staff member for easy regrouping.* *Have a chill area available at spawn for anyone who needs to calm down with a staff member.* |
-| **Pop-Up Events** | 1-2 | 0-3 | 25-40 | Plan a late night post event afterparty or fill in an open slot. Find your Security who will be present before you request to do a pop-up event of any Classic Event Type. *Back to Back events must be announced at same time as normal event with separate signup threads.* *Back to Back required to be coordinated with other host and security in #Event_Organization* *Please request from Event Assistant Managers with at least a 2hr notice and post announcement 90 min prior to attendees for a popup announcement and the final reminder can be 45min-1hour before start.* |
-
-
-</details>
 
 ## Classic Event Types
 <details>
@@ -42,3 +25,21 @@ sidebar_position: 2
 </details>
 
 
+
+
+
+# Special Planning Event Types
+<details>
+<summary>Special Event Types</summary>
+
+| Event Type | Security (Min-Max) | Volunteers (Min-Max) | Attendees Expected | Event Description |
+|------------|---------------------|----------------------|--------------------|------------------|
+| **Lewd Class** | 1-3 | 0-5 | 25-40 | Teach some of your favorite kinks or teach about great ways to ask for consent or give aftercare and have attendees practice with each other. Find some friends to help demonstrate for the class how to practice some kinks and ERP tips for VRC. *Designate a SFW/Aftercare area for attendees to cool off* |
+| **Orgy Night** | 2-4 | 1-3 | 25-40 | Night of making a hot sticky mess on some poor world creator's world. *Designate a SFW/Aftercare area for attendees to cool off* |
+| **Free Use Event** | 3-5 | 1-6 | 25-40 | Gather your Free Use friends who volunteer as tribute. Can be themed or just a world with private rooms. *Have at least one security for every 2-3 Free Use participants and one security member free to roam the world.* *Designate a SFW/Aftercare area for attendees to cool off* *Free Use rooms may be locked so long as they are in VC with staff* |
+| **Role Play Events** | 3-5 | 1-6 | 15-35 | Send the attendees on an Adventure. Think up some quests for attendees to perform while getting into character with your volunteer NPCs. Pick a theme, make a goal, build up some world lore to introduce in your secondary announcement and signups thread then get everyone ready to explore. *Quest prizes can include a turn with a Free Use volunteer* *Designate an Out of Character/SFW/Aftercare area for attendees to cool off* |
+| **Horror Map Event** | 3-4 | 0-3 | 20-40 | Guide your event through a haunted mansion, spooky maze, or challenge attendees to test their steel to get past some paranormal worlds. *Have the attendees break up into groups and stay with a staff member for easy regrouping.* *Have a chill area available at spawn for anyone who needs to calm down with a staff member.* |
+| **Pop-Up Events** | 1-2 | 0-3 | 25-40 | Plan a late night post event afterparty or fill in an open slot. Find your Security who will be present before you request to do a pop-up event of any Classic Event Type. *Back to Back events must be announced at same time as normal event with separate signup threads.* *Back to Back required to be coordinated with other host and security in #Event_Organization* *Please request from Event Assistant Managers with at least a 2hr notice and post announcement 90 min prior to attendees for a popup announcement and the final reminder can be 45min-1hour before start.* |
+
+
+</details>
